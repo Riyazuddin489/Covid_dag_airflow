@@ -1,0 +1,9 @@
+{
+	"bigquery_variables": {
+		"bq_conn_id": "my_gcp_conn",
+		"bq_project": "bigquery-271708",
+		"bq_table": "state_wise_covid_cases",
+		"bq_dataset": "covid_dataset"
+
+	}
+}

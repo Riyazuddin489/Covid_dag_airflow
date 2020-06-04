@@ -1,0 +1,9 @@
+/local
+/config/BigQueryProject-38532f2e6a07.json
+/venv
+/__pycache__
+/.idea
+/airflow_home/logs
+/airflow_home/__pycache__
+/airflow_home/dags/simple_dag.py
+/airflow_home/dags/xcom_sample.py
