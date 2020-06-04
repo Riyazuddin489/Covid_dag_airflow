@@ -1,0 +1,8 @@
+/local
+/config/BigQueryProject-38532f2e6a07.json
+/venv
+/__pycache__
+/.idea
+/airflow_home/logs
+/airflow_home/__pycache__
+
